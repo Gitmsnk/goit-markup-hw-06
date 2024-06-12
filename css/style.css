@@ -5,6 +5,9 @@
     margin: 0;
     padding: 0;
 }
+.mobile_menu {
+    display: none;
+}
 img{
     display: block;
 }
@@ -670,4 +673,6 @@ li{
 .menu-toggle{
     display: none;
 }
-
+.mobile_menu{
+    display: none;
+}
